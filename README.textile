@@ -1,0 +1,3 @@
+h1. Postnummer API
+
+Simple JSON API that gets data from postnummer:https://github.com/walle/postnummer.
